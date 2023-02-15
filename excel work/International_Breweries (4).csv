@@ -1,0 +1,31 @@
+SALES_ID,SALES_REP,EMAILS,BRANDS,PLANT_COST,UNIT_PRICE,QUANTITY,COST,PROFIT,COUNTRIES,REGION ,MONTHS,YEARS
+10102,Gill,gillhell@uk.com,budweiser,250,500,815,407500,203750,Nigeria,west,February,2018
+10137,Thompson,thomp@uk.com,budweiser,250,500,821,410500,205250,Nigeria,Southeast,January,2017
+10172,Jones,jone.ai@yahoo.com,budweiser,250,500,869,434500,217250,Nigeria,northcentral ,December,2018
+10207,Jones,jone.ai@yahoo.com,budweiser,250,500,990,495000,247500,Nigeria,northeast ,November,2019
+10242,Gill,gillhell@uk.com,budweiser,250,500,975,487500,243750,Nigeria,northwest,October,2017
+10277,Gill,gillhell@uk.com,budweiser,250,500,850,425000,212500,Nigeria,southsouth,September,2017
+10312,Jones,jone.ai@yahoo.com,budweiser,250,500,937,468500,234250,Nigeria,west,August,2018
+10347,Kivell,kivel_go@yahoo.com,budweiser,250,500,702,351000,175500,Nigeria,Southeast,July,2018
+10382,Howard,howard_freeman@yahoo.com,budweiser,250,500,863,431500,215750,Nigeria,northcentral ,June,2017
+10417,Howard,howard_freeman@yahoo.com,budweiser,250,500,886,443000,221500,Nigeria,northeast ,May,2017
+10452,Jones,jone.ai@yahoo.com,budweiser,250,500,710,355000,177500,Nigeria,northwest,April,2017
+10487,Jardine,jard@gmail.com,budweiser,250,500,960,480000,240000,Nigeria,southsouth,March,2017
+10522,Jones,jone.ai@yahoo.com,budweiser,250,500,986,493000,246500,Nigeria,west,February,2018
+10557,Gill,gillhell@uk.com,budweiser,250,500,902,451000,225500,Nigeria,Southeast,January,2019
+10592,Jones,jone.ai@yahoo.com,budweiser,250,500,934,467000,233500,Nigeria,northcentral ,December,2018
+10627,Jardine,jard@gmail.com,budweiser,250,500,795,397500,198750,Nigeria,northeast ,November,2017
+10662,Howard,howard_freeman@yahoo.com,budweiser,250,500,948,474000,237000,Nigeria,northwest,October,2019
+10697,Gill,gillhell@uk.com,budweiser,250,500,878,439000,219500,Nigeria,southsouth,September,2018
+10732,Jones,jone.ai@yahoo.com,budweiser,250,500,884,442000,221000,Nigeria,west,August,2019
+10767,Jardine,jard@gmail.com,budweiser,250,500,769,384500,192250,Nigeria,Southeast,July,2017
+10802,Smith,smithMan@yahoo.com,budweiser,250,500,866,433000,216500,Nigeria,northcentral ,June,2018
+10837,Gill,gillhell@uk.com,budweiser,250,500,922,461000,230500,Nigeria,northeast ,May,2018
+10872,Jones,jone.ai@yahoo.com,budweiser,250,500,848,424000,212000,Nigeria,northwest,April,2017
+10907,Parent,parentty@uk.com,budweiser,250,500,793,396500,198250,Nigeria,southsouth,March,2017
+10942,Andrews,andy@gmail.com,budweiser,250,500,998,499000,249500,Nigeria,west,February,2017
+10977,Gill,gillhell@uk.com,budweiser,250,500,919,459500,229750,Nigeria,Southeast,January,2019
+11012,Morgan,morganny@gmail.com,budweiser,250,500,966,483000,241500,Nigeria,northcentral ,December,2017
+11047,Jardine,jard@gmail.com,budweiser,250,500,727,363500,181750,Nigeria,northeast ,November,2018
+11082,Smith,smithMan@yahoo.com,budweiser,250,500,793,396500,198250,Nigeria,northwest,October,2017
+11117,Smith,smithMan@yahoo.com,budweiser,250,500,847,423500,211750,Nigeria,southsouth,September,2019
